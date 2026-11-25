@@ -26,7 +26,7 @@ export default function AboutPage() {
 
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           <div className="md:col-span-1">
-            <div className="relative w-full aspect-square rounded-lg overflow-hidden">
+            <div className="relative w-full aspect-square rounded-lg overflow-hidden ring-1 ring-gray-200">
               <Image
                 src={personalInfo.avatar}
                 alt={personalInfo.name}

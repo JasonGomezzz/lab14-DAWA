@@ -15,7 +15,7 @@ export default function Home() {
             src={personalInfo.avatar}
             alt={personalInfo.name}
             fill
-            className="rounded-full object-cover"
+            className="rounded-full object-cover ring-1 ring-gray-200"
             priority
             sizes="128px"
           />
