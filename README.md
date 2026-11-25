@@ -114,6 +114,18 @@ tiene backend.
 Las capturas se tomaron con `npm run dev` en una ventana de Chrome con perfil limpio y
 la URL completa visible.
 
+### Sitio desplegado en Vercel
+
+| Página | Captura |
+| --- | --- |
+| `https://lab14-dawa-ebon.vercel.app` | ![Inicio en Vercel](docs/capturas/produccion/01-inicio.png) |
+| `https://lab14-dawa-ebon.vercel.app/projects` | ![Proyectos en Vercel](docs/capturas/produccion/02-proyectos.png) |
+| `https://lab14-dawa-ebon.vercel.app/projects/ecommerce-platform` | ![Detalle en Vercel](docs/capturas/produccion/03-detalle-proyecto.png) |
+| `https://lab14-dawa-ebon.vercel.app/about` | ![Sobre mí en Vercel](docs/capturas/produccion/04-sobre-mi.png) |
+| `https://lab14-dawa-ebon.vercel.app/contact` | ![Contacto en Vercel](docs/capturas/produccion/05-contacto.png) |
+| `https://lab14-dawa-ebon.vercel.app/sitemap.xml` | ![sitemap.xml en Vercel](docs/capturas/produccion/06-sitemap-xml.png) |
+| `https://lab14-dawa-ebon.vercel.app/robots.txt` | ![robots.txt en Vercel](docs/capturas/produccion/07-robots-txt.png) |
+
 ## Auditoría de rendimiento y SEO
 
 Medición previa con Lighthouse 12 (línea de comandos, Chrome sin interfaz) sobre la
