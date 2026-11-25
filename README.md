@@ -141,8 +141,8 @@ DevTools.
 4. En *Settings → Environment Variables* definir `NEXT_PUBLIC_SITE_URL` con el dominio
    final y volver a desplegar para que sitemap, robots y Open Graph lo usen.
 
-- **Repositorio:** _pendiente_
-- **Dominio:** _pendiente_
+- **Repositorio:** <https://github.com/JasonGomezzz/lab14-DAWA>
+- **Dominio:** <https://lab14-dawa-ebon.vercel.app>
 
 ## Conclusiones (borrador)
 
